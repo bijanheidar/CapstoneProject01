@@ -4,8 +4,8 @@ Sample responsive website as the final project for the ComIT-Nodejs course assis
 https://barsam.herokuapp.com/
 ## Features
 * The project is a sample website suitable for a tutoring organization.
-* The worked focuses on Nodejs and MongoDB and establishes a structured relational database solution suitable for a private tutoring organization. 
-* It comes with 5 HTML pages including Home (as landing page), Programs, Teachers. Courses, and Contact, as well as a secured page for the admin transactions within the app.
+* The focus is on Nodejs, MongoDB and, using a structured relational database approach. 
+* It comes with 5 HTML pages including Home (landing page), Programs, Teachers. Courses, and Contact, as well as a secured page for the admin to work on transactions within the app.
 ## Platform
 ### Frontend
 * HTML: Structure is based on html and html templates
@@ -23,7 +23,7 @@ https://barsam.herokuapp.com/
 ![Screenshot](ERD.jpg)
 ### Backend
 * Nodejs: used as server-side platform
-* Express: to provide methods, call HTTP verb ( GET , POST , SET , etc.) and URL pattern ("Route")
+* Express: used to provide web application server and implement methods, call HTTP verb ( GET , POST , SET , etc.) and URL pattern ("Route")
 * ejs: for rendering htmls
 * body-parser: a middleware for parsing the incoming request bodies, such as the JSON data submitted using HTTP POST request.
 ## Future Expansion
